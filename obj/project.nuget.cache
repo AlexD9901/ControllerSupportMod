@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S7CbE28T+gQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\source\\repos\\KSPMyMod\\KSPMyMod\\KSPMyMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100\\microsoft.net.sdk.compilers.toolset.9.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
