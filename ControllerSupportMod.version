@@ -1,0 +1,30 @@
+{
+  "NAME": "Controller Support Mod",
+  "URL": "https://raw.githubusercontent.com/AlexD9901/ControllerSupportMod/refs/heads/main/ControllerSupportMod.version",
+  "DOWNLOAD": "https://github.com/AlexD9901/ControllerSupportMod/releases/tag/bad",
+  "GITHUB": {
+    "USERNAME": "AlexD9901",
+    "REPOSITORY": "ControllerSupportMod"
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 0,
+    "PATCH": 0,
+    "BUILD": 10
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 0
+  },
+  "KSP_VERSION_MAX": {
+    "MAJOR": 1,
+    "MINOR": 12,
+    "PATCH": 99
+  }
+}
