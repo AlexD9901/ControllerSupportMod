@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KSPMyMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48c509cb01f276478fdd9a6cf83cad055682dff9")]
 [assembly: System.Reflection.AssemblyProductAttribute("KSPMyMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KSPMyMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
